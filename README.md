@@ -1,6 +1,10 @@
 ## Hi there 👋
 Hi, I'm Moxytod, a 15-year-old who lives in Morocco and also an energetic, organized, and hopeful programmer that merge the simplicity with creativity and big dreams
 
+- My skills:
+
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,python,cpp,ts,js,react,vite,npm,nodejs,netlify,docker,github,discord,netlify)](www.youtube)
+
 I'm currently a student, but my dream work is in program engineering
 And as I'm a student, I'm learning in high school....
 
